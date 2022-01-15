@@ -8,7 +8,7 @@ setup(
   author = 'Ala Alsalam',                   # Type in your name
   author_email = 'alaalsalam101@gmail.com',   # Provide either the link to your github or to your website
   url='https://github.com/ALa101/Ala_package',
-  # download_url = 'https://github.com/ALa101/Ala_package',    # I explain this later on
+  download_url = 'https://github.com/ALa101/Ala_package/archive/refs/tags/v0.0.1.tar.gz',    # I explain this later on
   keywords = ['Ala', 'package', 'KEYWORDS'],   # Keywords that define your package best
   install_requires=[],           # I get to this in a second
   classifiers=[
